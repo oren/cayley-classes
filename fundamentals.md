@@ -20,7 +20,7 @@
 
 ## Prerequisites
 
-You don’t need any previous experience with Cayley, NOSQL databases or specific development languages
+You don’t need any previous experience with Cayley, NOSQL databases or specific development languages.
 
 ## Course Outline
 

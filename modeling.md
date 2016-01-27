@@ -17,7 +17,7 @@ This course teaches how to design and implement a graph data model and associate
 
 ## Prerequisites
 
-You will need some familiarity with Cayley, and the Cypher language in particular. The material from the Intro to Cayley course is sufficient knowledge to understand this course
+You will need some familiarity with Cayley, and the it's query language in particular. The material from the Intro to Cayley course is sufficient knowledge to understand this course.
 
 ## Course Outline
 
